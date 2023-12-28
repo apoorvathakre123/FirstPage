@@ -1,2 +1,2 @@
 # FirstPage
-This is my first Git Reposotory.
+This is my first Git Repository.
